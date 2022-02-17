@@ -1,0 +1,75 @@
+.page {
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%;
+    height: 70vh;
+    
+}
+
+.icon {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.search {
+    background-color: gainsboro;
+    margin: 5px;
+    width: 495px;
+}
+
+.style {
+    margin: 0px;
+    text-align: center;
+}
+
+.spcsearch {
+    margin: 5px;
+}
+
+.p1 {
+    background-color: #7EE5DA;
+    float:left;
+    width: 40%;
+    height: 83px;
+    margin-right: 0.5px;
+    padding-top: 10px;
+    text-align: center;
+    border-spacing: 2px;
+    margin-top: 0px ;
+}
+
+.p2 {
+    background-color: #10CCC0;
+    font-size: -1;
+    width: 20%;
+    height: 83px;
+    padding-top: 10px;
+    text-align: center;
+    float: left;
+    margin-top: 0px;
+
+}
+
+.p3 {
+    background-color: #62B3AA;
+    font-size: -1;
+    float: left;
+    width: 37%;
+    height: 88px;
+    margin-left: 0,5px;
+    padding-top: 5px;
+    text-align: center;
+    margin-top: 0px;
+    align: right;
+
+}
+
+.copyrigth {
+
+    margin: auto;
+    float: left;
+}
+
+    
+    
